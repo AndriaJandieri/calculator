@@ -1,0 +1,18 @@
+.display-wrapper{
+    height:10em;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+
+    padding: 16px;
+    margin-bottom: 24px;
+}
+.result{
+    flex: 1;
+    font-size: 24px;
+}
+.input-text{
+    flex:1;
+    font-size: 18px;
+}
